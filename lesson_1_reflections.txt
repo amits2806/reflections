@@ -1,0 +1,16 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+i found that naming similar enum was different for the same function in both the files.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+It can help me what functionlaties i have added over time and can also give the complete picture 
+of the current code.
+	
+How might using version control make you more confident to make changes that could break something?
+
+I can always revert to the woking copy of working code and also can track down what change actually broke my code easily and more faster.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+realtime working
+
